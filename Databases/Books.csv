@@ -1,0 +1,28 @@
+9781119206911|Java Basics|John Doe|Pearson|CSE|10|6|Row 1|Rack A|1
+9782223334445|Physics 101|Jane Smith|Springer|EEE|20|15|Row 2|Rack B|3
+9783334445556|Network Basics|Gary Donahue|O'Reilly|IT|12|7|Row 3|Rack C|2
+9784445556667|Clean Code|Robert Martin|Prentice Hall|CSE|25|18|Row 4|Rack D|4
+9785556667778|Design Patterns|Erich Gamma|Addison-Wesley|CSE|20|13|Row 5|Rack E|3
+9786667778889|Python Guide|Mark Lutz|O'Reilly|CSE|15|12|Row 6|Rack F|2
+9787778889990|AI Basics|Ian Goodfellow|MIT Press|ECE|30|25|Row 7|Rack G|3
+9788889991112|Algorithms|Thomas Cormen|MIT Press|CSE|40|35|Row 8|Rack H|5
+9789991112223|Coding Tips|Gayle McDowell|CareerCup|CSE|28|24|Row 9|Rack I|2
+9782345678901|Java Headstart|Kathy Sierra|O'Reilly|CSE|18|12|Row 11|Rack K|3
+9783456789012|History Book|Yuval Harari|Harper|History|22|20|Row 12|Rack L|4
+9784567890123|Life Hacks|Mark Manson|HarperOne|Selfhelp|25|19|Row 13|Rack M|6
+9785678901234|Becoming|Michelle Obama|Crown|Biography|30|27|Row 14|Rack N|3
+9786789012345|Deep Work|Cal Newport|Grand Central|Business|15|10|Row 15|Rack O|2
+9787890123456|Atomic Habits|James Clear|Penguin|Selfhelp|20|18|Row 16|Rack P|1
+9788901234567|Tipping Point|Malcolm Gladwell|Little, Brown|NonFiction|18|14|Row 17|Rack Q|4
+9789012345678|Subtle Art|Mark Manson|HarperOne|Selfhelp|25|20|Row 18|Rack R|3
+9780123456789|War Guide|Sun Tzu|Oxford|EEE|12|9|Row 19|Rack S|1
+9781239876543|Startup Guide|Eric Ries|Crown|BME|15|12|Row 20|Rack T|2
+9785678901112|Solid Mechanics|Robert Hooke|Springer|MECH|18|16|Row 21|Rack U|1
+9787777772223|Fluid Dynamics|Sir Isaac Newton|Elsevier|MECH|22|20|Row 22|Rack V|3
+9788888883334|Civil Engineering|George Washington|McGraw-Hill|CIVIL|30|28|Row 23|Rack W|2
+9789999994445|Geotechnical Engineering|Arthur D. Little|Wiley|CIVIL|25|22|Row 24|Rack X|4
+9781111115556|Microelectronics|Mark Thompson|McGraw-Hill|ECE|28|24|Row 25|Rack Y|2
+9782222226667|Control Systems|Alan Turing|Springer|ECE|35|30|Row 26|Rack Z|5
+9783333337778|VLSI Design|John von Neumann|Wiley|ECE|18|15|Row 27|Rack AA|3
+9784444448889|Embedded Systems|Charles Babbage|Prentice Hall|ECE|20|18|Row 28|Rack AB|4
+9781234567890|Algorithemic|Charles Babbage|Prentice Hall|CSE|100|100|Row 3|Rack R|0
