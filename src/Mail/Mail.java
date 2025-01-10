@@ -37,8 +37,8 @@ public class Mail {
     }
 
     private static boolean sendEmail(String recipientEmail, String subject, String body) {
-        String fromUser = "eesakkisaravanan997@gmail.com";  // Enter sender email id
-        String fromUserPassword = "gejh uzui lsnz olfo";   // Enter sender email password
+        String fromUser = "Add Your Email_id Here";  // Enter sender email id
+        String fromUserPassword = "Password";   // Enter sender email password
 
         MimeMessage mimeMessage;
         Transport transport = null;
