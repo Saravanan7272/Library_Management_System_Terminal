@@ -1,4 +1,4 @@
-# Library Management System
+# Library Management System Terminal
 
 The Library Management System (LMS) is a Java-based application designed to facilitate efficient library management, supporting roles such as Admin, Student, and Faculty. It provides features for book management, user management, fine handling, and secure access.
 
